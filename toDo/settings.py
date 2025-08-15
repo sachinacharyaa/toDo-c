@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-mt6flom*u2psqh*6)57$g!n)-+=dr%&7he1%-*!(^oalit_q!u
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [https://doflow.onrender.com/]
 
 
 # Application definition
